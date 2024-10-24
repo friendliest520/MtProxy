@@ -11,9 +11,7 @@
 
 > 此功能提供了 Docker 镜像以便开箱即用。
 
-## 交流群组
 
-Telegram 群组：<https://t.me/EllerHK>
 
 ## 安装方式
 

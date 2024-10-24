@@ -8,9 +8,6 @@
 MTProxyTLS one-click install lightweight script.  
 With Nginx as a Forward Proxy, access is only granted with an IP whitelist.
 
-## Discussion
-
-Telegram Group: <https://t.me/EllerHK>
 
 ## Install method
 
